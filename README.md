@@ -1,7 +1,9 @@
 # csharp-cipher-cli
  
 ## Description
-A command-line interface (**CLI**) tool that allows to encrypt/decrypt data with given **key**
+A command-line interface (**CLI**) tool that allows to encrypt/decrypt data with given **key** 🔐
+
+Try [web](https://kukumberman.github.io/vanilla-cipher/) version! 🌐
 
 ## Usage
 
